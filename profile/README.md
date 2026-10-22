@@ -1,44 +1,102 @@
 <p>
-  <img src="https://raw.githubusercontent.com/phlppgdfry-apps/.github/main/assets/banner.svg" alt="Useful software. Thoughtfully built." width="100%" />
+  <img src="https://raw.githubusercontent.com/phlppgdfry-apps/.github/main/assets/banner.svg" alt="Philippe Godfroy Apps — Small tools. Real usefulness." width="100%" />
 </p>
 
-# Independent apps by Philippe Godfroy
+<p align="center">
+  <a href="#the-products"><strong>Explore the products ↓</strong></a> &nbsp; · &nbsp;
+  <a href="https://philippegodfroy.com">About Philippe ↗</a> &nbsp; · &nbsp;
+  <a href="#from-idea-to-useful-software">How I build</a> &nbsp; · &nbsp;
+  <a href="#questions-ideas-or-a-bug">Get in touch</a>
+</p>
 
-**Practical products for everyday work, curiosity and better digital experiences.**
+## Independent software, with a job to do.
 
-This is the home for my independent apps and software products: native applications, focused web tools and automation with a clear purpose.
+I'm **Philippe Godfroy**, an independent builder based in Belgium. I make native apps and focused web tools that turn a specific problem into something useful: understanding your work rhythm, exploring your code or making a recurring task easier.
 
-[About Philippe](https://philippegodfroy.com) · [GitHub](https://github.com/phlppgdfry) · [Reviewell](https://github.com/reviewell-app)
+This organisation brings those products together, with a clear route to each app, its documentation and its current release information.
 
-## Explore the products
+## The products
 
-| Product | What it does | Explore |
-| :--- | :--- | :--- |
-| **ClickTrack** | A macOS app for local input analytics, focus sessions and productivity insights. | [Website](https://clicktrackapp.com) · [Repository](https://github.com/phlppgdfry/ClickTrack) |
-| **DevDNA** | Explore your GitHub activity through a terminal report and a shareable web profile. | [Web app](https://devdna.vercel.app) · [Repository](https://github.com/phlppgdfry/devdna) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://clicktrackapp.com"><img src="https://raw.githubusercontent.com/phlppgdfry-apps/.github/main/assets/clicktrack.svg" alt="ClickTrack — macOS activity analytics, with data stored on your Mac." width="100%" /></a>
 
-These links point to the products' current repositories and websites. Release status, installation instructions and licences are documented by each project.
+### ClickTrack
 
-## What belongs here
+**Understand how you use your Mac.**
 
-- **Native apps** with interfaces designed for the platform.
-- **Web products and utilities** that make a specific task easier.
-- **Shared product tooling** that supports development and delivery.
+Clicks, keystrokes, scrolls, focus sessions and activity trends in a macOS app. Built around counting activity rather than recording what you type.
 
-[Reviewell](https://github.com/reviewell-app) has its own organisation. My learning material, portfolio cases and broader technical work live on [my personal GitHub](https://github.com/phlppgdfry).
+[Visit the website ↗](https://clicktrackapp.com) · [Repository & releases](https://github.com/phlppgdfry/ClickTrack)
 
-## How I build
+</td>
+<td width="50%" valign="top">
+<a href="https://devdna.vercel.app"><img src="https://raw.githubusercontent.com/phlppgdfry-apps/.github/main/assets/devdna.svg" alt="DevDNA — explore your public GitHub profile through a web app and CLI." width="100%" /></a>
 
-Start with a concrete problem. Keep the experience clear. Validate the behaviour that matters. Improve the product as people use it.
+### DevDNA
 
-Each repository explains its scope, current maturity and how to run or install it. A prototype, an experiment and a released app should be easy to tell apart.
+**Your code tells a story. Decode yours.**
 
-## Get involved
+A GitHub identity lab with language palettes, activity patterns, profile comparisons and exportable cards. Playful interpretations with the underlying signals explained.
 
-- **Questions or bugs:** use the relevant product's support route or repository issue tracker.
-- **Ideas and contributions:** read the [contribution guidelines](https://github.com/phlppgdfry-apps/.github/blob/main/CONTRIBUTING.md) and check the project's licence.
-- **Security concerns:** follow the [private reporting instructions](https://github.com/phlppgdfry-apps/.github/blob/main/SECURITY.md).
+[Open the web app ↗](https://devdna.vercel.app) · [Repository & CLI](https://github.com/phlppgdfry/devdna)
+
+</td>
+</tr>
+</table>
+
+The links above point to each product's current home. Installation, compatibility, release status and licensing are documented there.
+
+## From idea to useful software
+
+| Start with the task | Make it clear | Check the behaviour | Keep improving |
+| :--- | :--- | :--- | :--- |
+| Solve a concrete problem for a specific person. | Use familiar interactions and explain the next step. | Validate the paths people depend on. | Turn feedback into focused changes. |
+
+**Native where it helps.** Apps should feel at home on their platform, from their controls to their installation experience.
+
+**Data choices people can understand.** Explain what is collected, where it lives and which permissions are needed. Each product documents its own behaviour.
+
+**Honest product status.** A prototype, an experiment and a released app have different expectations. Use each repository's README and release notes to understand its current state.
+
+## Find the right home
+
+| Looking for… | Go to… |
+| :--- | :--- |
+| Independent apps and product resources | **This organisation** |
+| Reviewell's product and engineering work | [Reviewell](https://github.com/reviewell-app) |
+| My portfolio, learning material and wider technical work | [Personal GitHub](https://github.com/phlppgdfry) |
+| Background and professional profile | [philippegodfroy.com](https://philippegodfroy.com) |
+
+## Questions, ideas or a bug?
+
+- **Using an app?** Start with its website, README and support instructions.
+- **Found a reproducible problem?** Use the relevant repository's bug report form, with the version, environment and reproduction steps.
+- **Have a contribution in mind?** Read the [contribution guide](https://github.com/phlppgdfry-apps/.github/blob/main/CONTRIBUTING.md), [engineering handbook](https://github.com/phlppgdfry-apps/.github/blob/main/docs/ENGINEERING.md) and the project's licence.
+- **Found a vulnerability?** Follow the [private reporting route](https://github.com/phlppgdfry-apps/.github/blob/main/SECURITY.md).
+
+<details>
+<summary><strong>Quick answers</strong></summary>
+
+### Are all products open source?
+
+Licensing is defined per repository. Public source, free downloads and paid products are separate choices; check the relevant project before reusing code.
+
+### Where can I download an app?
+
+Follow its official website or the release links in its repository. The organisation profile is a directory; each product maintains its own installation and release instructions.
+
+### Can I suggest something new?
+
+Yes. Describe the task you want to accomplish, who it would help and how you currently work around it. An issue on the relevant product is the best starting point.
+
+### Where are the other projects?
+
+This page highlights publicly available products. My broader work is on [my personal GitHub](https://github.com/phlppgdfry); Reviewell has its [own organisation](https://github.com/reviewell-app).
+
+</details>
 
 ---
 
-Built and maintained by [Philippe Godfroy](https://github.com/phlppgdfry) · Belgium
+<p align="center"><strong>Built by a person. Made to be useful.</strong><br /><sub><a href="https://github.com/phlppgdfry">Philippe Godfroy</a> · Independent builder · Belgium · <a href="https://philippegodfroy.com">philippegodfroy.com</a></sub></p>
