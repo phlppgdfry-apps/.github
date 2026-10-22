@@ -1,6 +1,6 @@
 # Philippe Godfroy Apps — identity assets
 
-These are the assets used by this organisation's GitHub profile.
+These assets are available for this organisation's GitHub materials.
 
 | Asset | File | Use |
 | :--- | :--- | :--- |
