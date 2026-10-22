@@ -5,6 +5,12 @@ This organisation is a public directory for Philippe Godfroy's independent apps.
 | Resource | Current home |
 | :--- | :--- |
 | Organisation profile, product guide and community defaults | [phlppgdfry-apps/.github](https://github.com/phlppgdfry-apps/.github) |
+| Hand Mirror / ReflectBuddy and RingSizer | Private application source; public App Store listings in the [catalogue](PRODUCTS.md) |
+| MirrorMate public materials | [phlppgdfry/MirrorMate-App](https://github.com/phlppgdfry/MirrorMate-App); application source remains private |
+| Other native apps and product prototypes | Private development projects listed by name and stage in the [catalogue](PRODUCTS.md) |
+| Hand Mirror / ReflectBuddy and RingSizer | Private application source; public App Store listings in the [catalogue](PRODUCTS.md) |
+| MirrorMate public materials | [phlppgdfry/MirrorMate-App](https://github.com/phlppgdfry/MirrorMate-App); application source remains private |
+| Other native apps and product prototypes | Private development projects listed by name and stage in the [catalogue](PRODUCTS.md) |
 | ClickTrack source and releases | [phlppgdfry/ClickTrack](https://github.com/phlppgdfry/ClickTrack) |
 | DevDNA source, CLI and releases | [phlppgdfry/devdna](https://github.com/phlppgdfry/devdna) |
 | Reviewell public resources | [reviewell-app](https://github.com/reviewell-app) |

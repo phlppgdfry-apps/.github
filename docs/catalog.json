@@ -1,0 +1,140 @@
+{
+  "checked_on": "2026-10-22",
+  "products": [
+    {
+      "name": "Hand Mirror (ReflectBuddy)",
+      "platform": "iOS / iPadOS",
+      "status": "App Store",
+      "summary": "A pocket mirror with light, zoom and freeze-frame controls.",
+      "store": "https://apps.apple.com/app/id6738931920",
+      "apple_id": "6738931920"
+    },
+    {
+      "name": "RingSizer",
+      "platform": "iOS / iPadOS",
+      "status": "App Store",
+      "summary": "Measure a ring or finger and convert between international ring sizes.",
+      "store": "https://apps.apple.com/app/id6798043494",
+      "apple_id": "6798043494"
+    },
+    {
+      "name": "MirrorMate",
+      "platform": "macOS",
+      "status": "Mac App Store",
+      "summary": "A menu-bar mirror for quick camera checks before a call or meeting.",
+      "store": "https://apps.apple.com/app/id6752225278",
+      "website": "https://mirrormateapp.com",
+      "source": "https://github.com/phlppgdfry/MirrorMate-App",
+      "source_kind": "Public showcase; application source is private",
+      "apple_id": "6752225278"
+    },
+    {
+      "name": "ClickTrack",
+      "platform": "macOS",
+      "status": "Public download",
+      "summary": "Local input analytics, focus sessions and activity trends for your Mac.",
+      "website": "https://clicktrackapp.com",
+      "download": "https://github.com/phlppgdfry/ClickTrack/releases/latest",
+      "source": "https://github.com/phlppgdfry/ClickTrack"
+    },
+    {
+      "name": "DevDNA",
+      "platform": "Web / CLI",
+      "status": "Public demo",
+      "summary": "Explore public GitHub profiles, language palettes, activity patterns and shareable cards.",
+      "website": "https://devdna-xi.vercel.app",
+      "demo": "https://devdna-xi.vercel.app/phlppgdfry",
+      "source": "https://github.com/phlppgdfry/devdna"
+    },
+    {
+      "name": "LEASH",
+      "platform": "iOS",
+      "status": "In development",
+      "summary": "A dog-walking coach for calmer walks and structured practice."
+    },
+    {
+      "name": "Fyesto",
+      "platform": "iOS",
+      "status": "Demo app in development",
+      "summary": "Social event discovery, shared plans and experiences with friends."
+    },
+    {
+      "name": "TodayIs",
+      "platform": "iOS",
+      "status": "MVP in development",
+      "summary": "Discover daily celebrations, observances and notable days, with Belgian and Dutch context."
+    },
+    {
+      "name": "Barkless",
+      "platform": "iOS",
+      "status": "Concept beta",
+      "summary": "A home barking-coach app with guided practice and manual progress tracking; training content remains under development."
+    },
+    {
+      "name": "ReflectBuddy for Android",
+      "platform": "Android",
+      "status": "In development",
+      "summary": "An Android mirror app with light, zoom and capture controls."
+    },
+    {
+      "name": "CABINE",
+      "platform": "Web",
+      "status": "Frontend prototype",
+      "summary": "A Belgium-first beach cabin discovery and rental-network concept."
+    },
+    {
+      "name": "StaySignal",
+      "platform": "Web",
+      "status": "Product prototype",
+      "summary": "An evidence-led workspace for Airbnb listing intelligence."
+    },
+    {
+      "name": "Auditly",
+      "platform": "Web",
+      "status": "Product prototype",
+      "summary": "An Airbnb listing audit with a score, actionable improvement plan and guest-impact explanations."
+    },
+    {
+      "name": "YardExx",
+      "platform": "Web",
+      "status": "Product prototype",
+      "summary": "A logistics capacity exchange concept for yards, storage and related capacity."
+    },
+    {
+      "name": "VoltYard",
+      "platform": "Business software",
+      "status": "In development",
+      "summary": "EV battery, charging and operational-record workflows for vehicle terminals."
+    },
+    {
+      "name": "StampMate",
+      "platform": "iOS",
+      "status": "Local prototype",
+      "summary": "A camera project with timestamp and location-stamp features."
+    },
+    {
+      "name": "Flashlight Pro",
+      "platform": "iOS",
+      "status": "Local prototype",
+      "summary": "A flashlight utility project with light controls and a timer."
+    },
+    {
+      "name": "Forrest",
+      "platform": "iOS",
+      "status": "Local prototype",
+      "summary": "A wellbeing and habit-recovery tracker concept with journaling and progress views."
+    },
+    {
+      "name": "SmartCard Model",
+      "platform": "iOS",
+      "status": "Local prototype",
+      "summary": "A model profile and portfolio-card project."
+    },
+    {
+      "name": "Fireworks",
+      "platform": "iOS",
+      "status": "Local experiment",
+      "summary": "An exploratory fireworks information and incident-reporting project."
+    }
+  ]
+}
