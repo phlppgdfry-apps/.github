@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#the-products"><strong>Explore the products ↓</strong></a> &nbsp; · &nbsp;
   <a href="https://philippegodfroy.com">About Philippe ↗</a> &nbsp; · &nbsp;
-  <a href="#from-idea-to-useful-software">How I build</a> &nbsp; · &nbsp;
+  <a href="https://github.com/phlppgdfry-apps/.github/blob/main/docs/PRODUCTS.md">Product guide</a> &nbsp; · &nbsp;
   <a href="#questions-ideas-or-a-bug">Get in touch</a>
 </p>
 
@@ -28,11 +28,11 @@ This organisation brings those products together, with a clear route to each app
 
 Clicks, keystrokes, scrolls, focus sessions and activity trends in a macOS app. Built around counting activity rather than recording what you type.
 
-[Visit the website ↗](https://clicktrackapp.com) · [Repository & releases](https://github.com/phlppgdfry/ClickTrack)
+[Visit the website ↗](https://clicktrackapp.com) · [Download & releases](https://github.com/phlppgdfry/ClickTrack/releases/latest) · [Source](https://github.com/phlppgdfry/ClickTrack)
 
 </td>
 <td width="50%" valign="top">
-<a href="https://devdna.vercel.app"><img src="https://raw.githubusercontent.com/phlppgdfry-apps/.github/main/assets/devdna.svg" alt="DevDNA — explore your public GitHub profile through a web app and CLI." width="100%" /></a>
+<a href="https://devdna-xi.vercel.app"><img src="https://raw.githubusercontent.com/phlppgdfry-apps/.github/main/assets/devdna.svg" alt="DevDNA — explore your public GitHub profile through a web app and CLI." width="100%" /></a>
 
 ### DevDNA
 
@@ -40,13 +40,32 @@ Clicks, keystrokes, scrolls, focus sessions and activity trends in a macOS app. 
 
 A GitHub identity lab with language palettes, activity patterns, profile comparisons and exportable cards. Playful interpretations with the underlying signals explained.
 
-[Open the web app ↗](https://devdna.vercel.app) · [Repository & CLI](https://github.com/phlppgdfry/devdna)
+[Open the web app ↗](https://devdna-xi.vercel.app) · [Try my profile](https://devdna-xi.vercel.app/phlppgdfry) · [Source & CLI](https://github.com/phlppgdfry/devdna)
 
 </td>
 </tr>
 </table>
 
-The links above point to each product's current home. Installation, compatibility, release status and licensing are documented there.
+### A look inside
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://clicktrackapp.com"><img src="https://raw.githubusercontent.com/phlppgdfry/ClickTrack/main/assets/screenshots/clicktrack-live-today.png" alt="ClickTrack Today dashboard showing input totals, hourly activity and focus metrics." width="100%" /></a>
+<strong>ClickTrack / Today</strong><br />
+<sub>Existing public product screenshot. The figures show the captured session, not a live feed.</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://devdna-xi.vercel.app/phlppgdfry"><img src="https://raw.githubusercontent.com/phlppgdfry-apps/.github/main/assets/devdna-example.svg" alt="Actual DevDNA export for Philippe's public GitHub profile, with language palette and activity traits." width="100%" /></a>
+<strong>DevDNA / My coding profile</strong><br />
+<sub>Exported from the live app on 22 October 2026. Sampled public data; playful traits, not a skill ranking.</sub>
+</td>
+</tr>
+</table>
+
+**Try it yourself:** [explore my DevDNA profile](https://devdna-xi.vercel.app/phlppgdfry) · [compare two profiles](https://devdna-xi.vercel.app/compare) · [browse ClickTrack releases](https://github.com/phlppgdfry/ClickTrack/releases)
+
+For platform requirements, data behaviour, release notes and support, see the [product guide](https://github.com/phlppgdfry-apps/.github/blob/main/docs/PRODUCTS.md). Each product's own documentation remains the source of truth.
 
 ## From idea to useful software
 
